@@ -1,0 +1,10 @@
+{
+    "name": "ai-minecraft-builder",
+    "version": "1.0.0",
+    "description": "AI Minecraft Builder using Gemma 4",
+    "main": "server.js",
+    "dependencies": {
+        "mineflayer": "^4.11.0",
+        "axios": "^1.6.0"
+    }
+}
